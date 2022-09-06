@@ -75,6 +75,3 @@ print(type(my_variable))
 my_number = 50
 some_string = "The number is "
 print(some_string + my_number)
-
-
-
